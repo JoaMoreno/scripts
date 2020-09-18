@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "clone": "./git_clone.js"
-  }
+    "clonegh": "./git_clone_gh.js",
+    "clonegl": "./git_clone_gl.js"
+  },
+  "dependencies": {}
 }
