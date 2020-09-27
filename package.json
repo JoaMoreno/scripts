@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "clone": "./git_clone_gl.js",
-    "clonegl": "./git_clone_gl.js",
-    "clonegh": "./git_clone_gh.js"
+    "clone": "./git_clone.js",
+    "registry": "./registry.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
