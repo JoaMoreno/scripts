@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const config = require('./config.json')
 const gitRepo = process.argv.slice(2,3).join()
 const regex = /gitlab/gi;
