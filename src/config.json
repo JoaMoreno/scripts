@@ -1,0 +1,6 @@
+{
+    "user":"username",
+    "registry":{
+        "npm":"https://registry.npmjs.org/"
+    }
+}
